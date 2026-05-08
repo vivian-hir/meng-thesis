@@ -1,2 +1,2 @@
 # meng-thesis
-Jupyter notebooks used for MEng research 
+Using computational tools to map the spatial assembly of tumors in GI cancer 
